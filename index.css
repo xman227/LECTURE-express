@@ -46,7 +46,8 @@
     
     .main a {
     background-color: #dcdcec;
-    display: block;
+    display: flex;
+    justify-content:center;
     padding: .5em;
     margin: 0 2.5em;
     text-decoration: none;
