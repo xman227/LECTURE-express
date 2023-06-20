@@ -34,7 +34,7 @@
   }
   
   .target-box:hover {
-    background-color: green;
+    background-color: darkblue;
     width: 600px;
     height: 600px;
   }
