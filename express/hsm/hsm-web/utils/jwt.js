@@ -2,6 +2,9 @@ const jwt = require('jsonwebtoken');
 
 const secret = 'hsm';
 
+const test = 'sd';
+
+
 exports.secret = secret;
 
 exports.setUserToken = (res, user) => {
