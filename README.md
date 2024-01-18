@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![image](assets/image3.gif)
+![image](assets/image3.png)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Lecture
@@ -17,7 +17,7 @@
 
 해당 repository는 강의에 사용된 코드자료입니다.
 
-![image](assets/image4.gif)
+![image](assets/image4.png)
 
 
 &nbsp;
